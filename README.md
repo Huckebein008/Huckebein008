@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Huckebein008
 - 👀 I’m trying to get used to git.
 - 🌱 I’m currently learning C and C++
-- 📫 alex659.lee@gmail.com
 - ⚡ Fun fact: Enter college at 2017, but still freshman in 2024 :(
 
 <!---
