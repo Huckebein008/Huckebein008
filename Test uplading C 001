@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+
+	printf("20241006 Huckebein008");
+
+	return 0;
+}
